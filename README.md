@@ -10,8 +10,8 @@
 # Table of Contents
 
 - **Awesome Papers**
-  - [Image-based Multimodal Language Models](#image-based-multimodal-language-models)
-  - [Video-based Multimodal Language Models](#video-based-multimodal-language-models)
+  - [Image-based Multimodal Large Language Models](#image-based-multimodal-language-models)
+  - [Video-based Multimodal Large Language Models](#video-based-multimodal-language-models)
   - [Others](#others)
 
 - **Awesome Datasets**
@@ -25,7 +25,7 @@
 
 ## Awesome Papers
 
-### Image-based Multimodal Language Models
+### Image-based Multimodal Large Language Models
 
 
 | Title | Venue | Date | Code | Demo |
@@ -41,7 +41,7 @@
 
 
 
-### Video-based Multimodal Language Models
+### Video-based Multimodal Large Language Models
 | Title | Venue | Date | Code | Demo |
 |-------|-------|------|------|------|
 | [MiniCPM-V 2.6: A GPT-4V Level MLLM for single image, multi-image and video understanding](https://arxiv.org/pdf/2408.01800) [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social)](https://github.com/OpenBMB/MiniCPM-V)| arXiv | 2024-08-06 | [GitHub](https://github.com/OpenBMB/MiniCPM-V) | [Demo](http://120.92.209.146:8887/)  |
