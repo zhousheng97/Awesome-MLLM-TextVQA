@@ -31,6 +31,7 @@
 | Title | Venue | Date | Code | Demo |
 |-------|-------|------|------|------|
 | [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://llava-vl.github.io/blog/2024-01-30-llava-next/) [![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen-VL?style=social)](https://github.com/QwenLM/Qwen-VL)| arXiv | 2023-10-13 | [GitHub](https://github.com/QwenLM/Qwen-VL) | Local Demo  |
+| [BLIVA: A Simple Multimodal LLM for Better Handling of Text-rich Visual Questions](https://arxiv.org/pdf/2308.09936) [![GitHub stars](https://img.shields.io/github/stars/yfzhang114/SliME?style=social)](https://github.com/mlpc-ucsd/BLIVA)| AAAI | 2023-12-18 | [GitHub](https://github.com/mlpc-ucsd/BLIVA) |  Local Demo |
 | [LLaVA-NeXT: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-next/) [![GitHub stars](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social)](https://github.com/LLaVA-VL/LLaVA-NeXT)| arXiv | 2024-01-30 | [GitHub](https://github.com/LLaVA-VL/LLaVA-NeXT) | -  |
 | [Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models](https://arxiv.org/pdf/2403.03003) [![GitHub stars](https://img.shields.io/github/stars/luogen1996/LLaVA-HR?style=social)](https://github.com/luogen1996/LLaVA-HR)| arXiv | 2024-03-05 | [GitHub](https://github.com/luogen1996/LLaVA-HR) | Local Demo  |
 | [Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models](https://arxiv.org/pdf/2311.06607) [![GitHub stars](https://img.shields.io/github/stars/Yuliang-Liu/Monkey?style=social)](https://github.com/Yuliang-Liu/Monkey)| CVPR | 2024-02-27 | [GitHub](https://github.com/Yuliang-Liu/Monkey) | Local Demo  |
@@ -38,6 +39,8 @@
 | [CogVLM: Visual Expert for Pretrained Language Models](https://arxiv.org/pdf/2311.03079) [![GitHub stars](https://img.shields.io/github/stars/THUDM/CogVLM?style=social)](https://github.com/THUDM/CogVLM)| arXiv | 2024-02-04 | [GitHub](https://github.com/THUDM/CogVLM) |Local Demo   |
 | [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/pdf/2312.08914) [![GitHub stars](https://img.shields.io/github/stars/THUDM/CogVLM?style=social)](https://github.com/THUDM/CogVLM)| CVPR (Highlight) | 2024-04-05 | [GitHub](https://github.com/THUDM/CogVLM) | Local Demo  |
 | [MiniCPM-V: A GPT-4V Level MLLM on Your Phone](https://arxiv.org/pdf/2408.01800) [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social)](https://github.com/OpenBMB/MiniCPM-V)| arXiv | 2024-05-23 | [GitHub](https://github.com/OpenBMB/MiniCPM-V) | [Demo](https://huggingface.co/spaces/OpenBMB/MiniCPM-V)  |
+| [Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models](https://arxiv.org/pdf/2406.08487) [![GitHub stars](https://img.shields.io/github/stars/yfzhang114/SliME?style=social)](https://github.com/yfzhang114/SliME)| arXiv | 2024-06-14 | [GitHub](https://github.com/yfzhang114/SliME) | -  |
+
 
 
 
