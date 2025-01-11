@@ -68,11 +68,8 @@
 
 ### Video Datasets
 
-
 ### Synthetic Datasets
 
-
-### Domain-specific Datasets
 
 ### Others
 
