@@ -40,6 +40,7 @@
 | [MiniCPM-V 2.6: A GPT-4V Level MLLM for single image, multi-image and video understanding](https://arxiv.org/pdf/2408.01800) [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social)](https://github.com/OpenBMB/MiniCPM-V)| arXiv | 2024-08-06 | [GitHub](https://github.com/OpenBMB/MiniCPM-V) | [Demo](http://120.92.209.146:8887/)  |
 | [ShareGPT4Video: Improving Video Understanding and Generation with Better Captions](https://arxiv.org/pdf/2409.12191) [![GitHub stars](https://img.shields.io/github/stars/ShareGPT4Omni/ShareGPT4Video?style=social)](https://github.com/ShareGPT4Omni/ShareGPT4Video)| NeurIPS D&B track | 2024-10-01 | [GitHub](https://github.com/ShareGPT4Omni/ShareGPT4Video) | [Demo](https://huggingface.co/spaces/Lin-Chen/ShareCaptioner-Video)  
 | [Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution](https://arxiv.org/pdf/2409.12191) [![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen2-VL?style=social)](https://github.com/QwenLM/Qwen2-VL)| arXiv | 2024-10-03 | [GitHub](https://github.com/QwenLM/Qwen2-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen2-VL)  |
+| [Qwen2-VL: Enhancing Vision-Language Model’s Perception of the World at Any Resolution](https://arxiv.org/pdf/2409.12191) [![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen2-VL?style=social)](https://github.com/QwenLM/Qwen2-VL)| arXiv | 2024-10-03 | [GitHub](https://github.com/QwenLM/Qwen2-VL) | [Demo](https://huggingface.co/spaces/Qwen/Qwen2-VL)  |
 
 
 
