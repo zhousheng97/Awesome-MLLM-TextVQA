@@ -1,4 +1,4 @@
-# Awesome-MLLM-SceneTextVQA
+# Awesome-MLLM-TextVQA
 
 ✨✨This repository includes MLLM works on the Scene-Text VQA tasks.
 
