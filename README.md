@@ -30,6 +30,11 @@
 
 | Title | Venue | Date | Code | Demo |
 |-------|-------|------|------|------|
+| [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://llava-vl.github.io/blog/2024-01-30-llava-next/) [![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen-VL?style=social)](https://github.com/QwenLM/Qwen-VL)| arXiv | 2023-10-13 | [GitHub](https://github.com/QwenLM/Qwen-VL) | Local Demo  |
+| [LLaVA-NeXT: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-next/) [![GitHub stars](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-NeXT?style=social)](https://github.com/LLaVA-VL/LLaVA-NeXT)| arXiv | 2024-01-30 | [GitHub](https://github.com/LLaVA-VL/LLaVA-NeXT) | -  |
+| [Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models](https://arxiv.org/pdf/2403.03003) [![GitHub stars](https://img.shields.io/github/stars/luogen1996/LLaVA-HR?style=social)](https://github.com/luogen1996/LLaVA-HR)| arXiv | 2024-03-05 | [GitHub](https://github.com/luogen1996/LLaVA-HR) | Local Demo  |
+| [Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models](https://arxiv.org/pdf/2311.06607) [![GitHub stars](https://img.shields.io/github/stars/Yuliang-Liu/Monkey?style=social)](https://github.com/Yuliang-Liu/Monkey)| CVPR | 2024-02-27 | [GitHub](https://github.com/Yuliang-Liu/Monkey) | Local Demo  |
+| [CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations](https://arxiv.org/pdf/2402.04236) [![GitHub stars](https://img.shields.io/github/stars/THUDM/CogCoM?style=social)](https://github.com/THUDM/CogCoM)| arXiv | 2024-05-22 | [GitHub](https://github.com/THUDM/CogCoM) | [Demo](https://github.com/THUDM/CogCoM/blob/main/cogcom/demo/web_demo.py)  |
 | [MiniCPM-V: A GPT-4V Level MLLM on Your Phone](https://arxiv.org/pdf/2408.01800) [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social)](https://github.com/OpenBMB/MiniCPM-V)| arXiv | 2024-05-23 | [GitHub](https://github.com/OpenBMB/MiniCPM-V) | [Demo](https://huggingface.co/spaces/OpenBMB/MiniCPM-V)  |
 
 
