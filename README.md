@@ -18,7 +18,6 @@
   - [Image Datasets](#image-datasets)
   - [Video Datasets](#video-datasets)
   - [Synthetic Datasets](#synthetic-datasets)
-  - [Domain-specific Datasets](#domain-specific-datasets)
   - [Others](#others-1)
 
 ---
