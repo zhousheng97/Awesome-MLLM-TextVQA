@@ -62,8 +62,10 @@
 ---
 
 ## Awesome Datasets
-
 ### Image Datasets
+| Name | Paper | Venue | Download Link | Split |  
+|-------|-------|------|------|-------|
+| TextVQA| | CVPR | [GitHub](https://github.com/OpenBMB/MiniCPM-V) |  train / val / test  |
 
 ### Video Datasets
 
