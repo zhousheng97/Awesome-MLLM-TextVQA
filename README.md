@@ -65,7 +65,7 @@
 ### Image Datasets
 | Name | Paper | Venue | Download Link | Split |  
 |-------|-------|------|------|-------|
-| TextVQA| | CVPR | [GitHub](https://github.com/OpenBMB/MiniCPM-V) |  train / val / test  |
+| TextVQA | [Towards VQA Models That Can Read](https://arxiv.org/pdf/1904.08920) | CVPR | [GitHub](https://textvqa.org/) |  train / val / test  |
 
 ### Video Datasets
 
