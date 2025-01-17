@@ -67,7 +67,7 @@
 |-------|-------|------|------|-------|-------|
 | TextVQA | [Towards VQA Models That Can Read](https://arxiv.org/pdf/1904.08920) | CVPR | [GitHub](https://textvqa.org/) | train / val / test | |
 | ST-VQA | [Scene Text Visual Question Answering](https://arxiv.org/pdf/1905.13648) | ICCV | [GitHub](https://rrc.cvc.uab.es/?ch=11) | train / val / test | |
-| OCRBench | [OCRBench: On the Hidden Mystery of OCR in Large Multimodal Models](https://arxiv.org/pdf/2305.07895) | Science China Information Sciences | [GitHub](https://github.com/Yuliang-Liu/MultimodalOCR/) | test |  [Link](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) |
+| OCRBench | [OCRBench: On the Hidden Mystery of OCR in Large Multimodal Models](https://arxiv.org/pdf/2305.07895) | SCIS | [GitHub](https://github.com/Yuliang-Liu/MultimodalOCR/) | test |  [Link](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) |
 | OCRBench v2 | [OCRBench v2: An Improved Benchmark for Evaluating Large Multimodal Models on Visual Text Localization and Reasoning](https://arxiv.org/pdf/2501.00321) | arxiv | [GitHub](https://github.com/Yuliang-Liu/MultimodalOCR/) | test |  [Link](https://huggingface.co/spaces/ling99/OCRBench-v2-leaderboard) |
 
 
