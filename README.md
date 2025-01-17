@@ -1,6 +1,6 @@
 # Awesome-MLLM-TextVQA
 
-✨✨This repository includes MLLM works on the Scene-Text VQA tasks.
+✨✨This repository includes MLLM works on the Scene-Text VQA tasks in real world.
 
 ## Introduction 
 
