@@ -69,8 +69,6 @@
 
 ### Video Datasets
 
-### Synthetic Datasets
-
 
 ### Others
 
