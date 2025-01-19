@@ -41,6 +41,9 @@
 | [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/pdf/2312.08914) [![GitHub stars](https://img.shields.io/github/stars/THUDM/CogVLM?style=social)](https://github.com/THUDM/CogVLM)| CVPR (Highlight) | 2024-04-05 | [GitHub](https://github.com/THUDM/CogVLM) | Local Demo  |
 | [MiniCPM-V: A GPT-4V Level MLLM on Your Phone](https://arxiv.org/pdf/2408.01800) [![GitHub stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social)](https://github.com/OpenBMB/MiniCPM-V)| arXiv | 2024-05-23 | [GitHub](https://github.com/OpenBMB/MiniCPM-V) | [Demo](https://huggingface.co/spaces/OpenBMB/MiniCPM-V)  |
 | [Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models](https://arxiv.org/pdf/2406.08487) [![GitHub stars](https://img.shields.io/github/stars/yfzhang114/SliME?style=social)](https://github.com/yfzhang114/SliME)| arXiv | 2024-06-14 | [GitHub](https://github.com/yfzhang114/SliME) | -  |
+| [Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration](https://arxiv.org/pdf/2501.05179) [![GitHub stars](https://img.shields.io/github/stars/xuyang-liu16/GlobalCom2?style=social)](https://github.com/xuyang-liu16/GlobalCom2)| arXiv | 2025-01-09 | [GitHub](https://github.com/xuyang-liu16/GlobalCom2) | -  |
+| [LLaVA-UHD v2: an MLLM Integrating High-Resolution Feature Pyramid via Hierarchical Window Transformer](https://arxiv.org/pdf/2412.13871) [![GitHub stars](https://img.shields.io/github/stars/thunlp/LLaVA-UHD?style=social)](https://github.com/thunlp/LLaVA-UHD)| arXiv | 2024-12-18 | [GitHub](https://github.com/thunlp/LLaVA-UHD) | -  |
+| [Efficient Architectures for High Resolution Vision-Language Models](https://arxiv.org/pdf/2412.13871) [![GitHub stars](https://img.shields.io/github/stars/miguelscarv/pheye?style=social)](https://github.com/miguelscarv/pheye)| arXiv | 2025-01-05 | [GitHub](https://github.com/miguelscarv/pheye) | -  |
 
 
 
