@@ -55,6 +55,7 @@
 | [VILA: Optimized Vision Language Models](https://arxiv.org/pdf/2412.04468) [![GitHub stars](https://img.shields.io/github/stars/NVlabs/VILA?style=social)](https://github.com/NVlabs/VILA)| arXiv | 2024-12-05 | [GitHub](https://github.com/NVlabs/VILA) | [Demo](https://vila.mit.edu/)  |
 | [CogVLM2: Visual Language Models for Image and Video Understanding](https://arxiv.org/pdf/2408.16500) [![GitHub stars](https://img.shields.io/github/stars/THUDM/CogVLM2?style=social)](https://github.com/THUDM/CogVLM2)| arXiv | 2024-08-29 | [GitHub](https://github.com/THUDM/CogVLM2) | [Demo](http://cogvlm2-online.cogviewai.cn:7868/)  |
 | [LongVILA: Scaling Long-Context Visual Language Models for Long Videos](https://arxiv.org/pdf/2408.10188) [![GitHub stars](https://img.shields.io/github/stars/NVlabs/VILA?style=social)](https://github.com/NVlabs/VILA/tree/main/longvila)| arXiv | 2024-12-13 | [GitHub](https://github.com/NVlabs/VILA/tree/main/longvila) | [Demo](https://huggingface.co/Efficient-Large-Model)  |
+| [Oryx MLLM: On-Demand Spatial-Temporal Understanding at Arbitrary Resolution](https://arxiv.org/pdf/2409.12961) [![GitHub stars](https://img.shields.io/github/stars/Oryx-mllm/Oryx?style=social)](https://github.com/Oryx-mllm/Oryx)| arXiv | 2024-09-19 | [GitHub](https://github.com/Oryx-mllm/Oryx) | [Demo](https://huggingface.co/spaces/THUdyh/Oryx)  |
 
 
 ### Others
