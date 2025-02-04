@@ -9,21 +9,39 @@
 
 # Table of Contents
 
-- **Awesome Papers**
-  - [Image-based Multimodal Large Language Models](#image-based-multimodal-large-language-models)
-  - [Video-based Multimodal Large Language Models](#video-based-multimodal-large-language-models)
-  - [Others](#others)
-
 - **Awesome Datasets**
   - [Image Datasets](#image-datasets)
   - [Video Datasets](#video-datasets)
-  - [Synthetic Datasets](#synthetic-datasets)
-  - [Others](#others-1)
+  - 
+- **Awesome Papers**
+  - [Image-based Multimodal Large Language Models](#image-based-multimodal-large-language-models)
+  - [Video-based Multimodal Large Language Models](#video-based-multimodal-large-language-models)
+
+
+---
+
+## Awesome Datasets
+### Image Datasets
+| Name | Paper | Venue | Download Link | Split | Leaderboard |
+|-------|-------|------|------|-------|-------|
+| TextVQA | [Towards VQA Models That Can Read](https://arxiv.org/pdf/1904.08920) | CVPR | [GitHub](https://textvqa.org/) | train / val / test | |
+| ST-VQA | [Scene Text Visual Question Answering](https://arxiv.org/pdf/1905.13648) | ICCV | [GitHub](https://rrc.cvc.uab.es/?ch=11) | train / val / test | |
+| OCRBench | [OCRBench: On the Hidden Mystery of OCR in Large Multimodal Models](https://arxiv.org/pdf/2305.07895) | SCIS | [GitHub](https://github.com/Yuliang-Liu/MultimodalOCR/) | test |  [Link](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) |
+| OCRBench v2 | [OCRBench v2: An Improved Benchmark for Evaluating Large Multimodal Models on Visual Text Localization and Reasoning](https://arxiv.org/pdf/2501.00321) | arxiv | [GitHub](https://github.com/Yuliang-Liu/MultimodalOCR/) | test |  [Link](https://huggingface.co/spaces/ling99/OCRBench-v2-leaderboard) |
+
+
+### Video Datasets
+| Name | Paper | Venue | Download Link | Split | Leaderboard |
+|-------|-------|------|------|-------|-------|
+| M4viteVQA | [Towards Video Text Visual Question Answering: Benchmark and Baseline](https://arxiv.org/pdf/1905.13648) | NeurIPS'2022 | [GitHub](https://github.com/bytedance/VTVQA) | train / val / test | |
+| RoadTextVQA | [Reading Between the Lanes: Text VideoQA on the Road](https://arxiv.org/html/2307.03948) | ICDAR'2023 | [GitHub](https://github.com/georg3tom/RoadtextVQA) | train / val / test | |
+| NewsVideoQA | [Watching the News: Towards VideoQA Models that can Read](https://arxiv.org/abs/2211.05588) | WACV'2023 | [GitHub](https://github.com/soumyasj/NewsVideoQA) | test | [link](https://rrc.cvc.uab.es/?ch=24&com=evaluation&task=1)|
+| ViTXT-GQA | [Scene-Text Grounding for Text-Based Video Question Answering](https://arxiv.org/abs/2409.14319) | arxiv'2024 | [GitHub](https://github.com/zhousheng97/ViTXT-GQA) | test | |
+
 
 ---
 
 ## Awesome Papers
-
 ### Image-based Multimodal Large Language Models
 
 
@@ -62,24 +80,6 @@
 
 
 ### Others
-
----
-
-## Awesome Datasets
-### Image Datasets
-| Name | Paper | Venue | Download Link | Split | Leaderboard |
-|-------|-------|------|------|-------|-------|
-| TextVQA | [Towards VQA Models That Can Read](https://arxiv.org/pdf/1904.08920) | CVPR | [GitHub](https://textvqa.org/) | train / val / test | |
-| ST-VQA | [Scene Text Visual Question Answering](https://arxiv.org/pdf/1905.13648) | ICCV | [GitHub](https://rrc.cvc.uab.es/?ch=11) | train / val / test | |
-| OCRBench | [OCRBench: On the Hidden Mystery of OCR in Large Multimodal Models](https://arxiv.org/pdf/2305.07895) | SCIS | [GitHub](https://github.com/Yuliang-Liu/MultimodalOCR/) | test |  [Link](https://huggingface.co/spaces/echo840/ocrbench-leaderboard) |
-| OCRBench v2 | [OCRBench v2: An Improved Benchmark for Evaluating Large Multimodal Models on Visual Text Localization and Reasoning](https://arxiv.org/pdf/2501.00321) | arxiv | [GitHub](https://github.com/Yuliang-Liu/MultimodalOCR/) | test |  [Link](https://huggingface.co/spaces/ling99/OCRBench-v2-leaderboard) |
-
-
-### Video Datasets
-
-
-### Others
-
 
 
 
