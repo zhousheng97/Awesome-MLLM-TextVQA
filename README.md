@@ -12,7 +12,7 @@
 - **Awesome Datasets**
   - [Image Datasets](#image-datasets)
   - [Video Datasets](#video-datasets)
-  - 
+  
 - **Awesome Papers**
   - [Image-based Multimodal Large Language Models](#image-based-multimodal-large-language-models)
   - [Video-based Multimodal Large Language Models](#video-based-multimodal-large-language-models)
