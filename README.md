@@ -5,7 +5,7 @@
 ## Introduction 
 
 - Text Visual Question Answering (TextVQA) is a task where models answer questions based on textual information within visual scenes (**images or videos**), requiring both scene text recognition and reasoning.
-- With the rise of Multimodal Large Language Models (MLLMs), this task is crucial for enhancing scene-text-aware multimodal understanding. It pushes MLLMs to **integrate visual-textual information** and **improve real-world applications** like assistive technology.
+- With the rise of Multimodal Large Language Models (MLLMs), this task is crucial for enhancing scene-text-aware multimodal understanding. It pushes MLLMs to **integrate visual-textual information** and **improve real-world QA assistance**.
 
 # Table of Contents
 
