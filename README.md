@@ -37,7 +37,7 @@
 | RoadTextVQA | [Reading Between the Lanes: Text VideoQA on the Road](https://arxiv.org/html/2307.03948) | ICDAR'2023 | [GitHub](https://github.com/georg3tom/RoadtextVQA) | train / val / test | |
 | NewsVideoQA | [Watching the News: Towards VideoQA Models that can Read](https://arxiv.org/abs/2211.05588) | WACV'2023 | [GitHub](https://github.com/soumyasj/NewsVideoQA) | test | [link](https://rrc.cvc.uab.es/?ch=24&com=evaluation&task=1)|
 | ViTXT-GQA | [Scene-Text Grounding for Text-Based Video Question Answering](https://arxiv.org/abs/2409.14319) | arxiv'2024 | [GitHub](https://github.com/zhousheng97/ViTXT-GQA) | test | |
-
+| EgoTextVQA | [EgoTextVQA: Towards Egocentric Scene-Text Aware Video Question Answering](https://arxiv.org/abs/2502.07411) | CVPR'2025 | [GitHub](https://github.com/zhousheng97/EgoTextVQA) | test | |
 
 ---
 
